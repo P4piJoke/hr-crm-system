@@ -1,0 +1,6 @@
+[submodule "hr-crm-be"]
+	path = hr-crm-be
+	url = https://github.com/P4piJoke/hr-crm-be
+[submodule "hr-crm-fe"]
+	path = hr-crm-fe
+	url = https://github.com/P4piJoke/hr-crm-fe
